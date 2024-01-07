@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
+  - value 🖐 used
+  - identifier 🖐 used
+  - variable 🖐 used
+  - constant 🖐 used
+  - scalar 👂 heard
+  - literal 🎓 known
+  - expression 🖐 used
+  - heap 👂 heard
+  - function 🖐 used
+  - procedure 🎓 known
+  - method 👂 heard
+  - class 🖐 used
+  - prototype 🎓 known
+  - event 
+  - type 🖐 used
   - primitive types
   - reference types
-  - flag
+  - flag 🖐 used
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 🖐 used
   - assignment
   - regular expression
   - interface
@@ -30,17 +30,17 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - signature 🖐 used
+  - argument 🖐 used
+  - parameter 🖐 used
+  - pure function 👂 heard
+  - lambda expression 🎓 known
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 🖐 used
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
+  - array 🖐 used
+  - structure 🖐 used
+  - record 🖐 used
+  - enum 
+  - instance 
+  - object 🖐 used
+  - class 🖐 used
   - collection
   - set
   - hash table
@@ -71,25 +71,25 @@
   - stack
   - deque
   - tree
-  - graph
+  - graph 👂 heard
   - iterator
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler 🖐 used
+  - transpiler 👂 heard
   - linter
-  - polyfill
-  - debugger
+  - polyfill 
+  - debugger 🖐 used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring  👂 heard
+  - code review 👂 heard
   - antipatterns
   - paradigm
-  - algorithm
-  - magic numbers
+  - algorithm 🖐 used
+  - magic numbers 🖐 used
   - hardcode
   - complexity
   - decomposition
