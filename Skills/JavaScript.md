@@ -7,6 +7,9 @@
   - async function 🎓 known
   - call
   - bind 🎓 known
+  - async function 👂 heard
+  - call
+  - bind 👂 heard
   - apply
   - instanceof
   - ...spread
@@ -55,6 +58,10 @@
   - export 🖐 used
   - label
   - try..catch 🎓 known
+  - import 👂 heard
+  - export 👂 heard
+  - label
+  - try..catch
   - switch 🖐 used
   - class 👂 heard
   - new Error
@@ -71,6 +78,7 @@
   - extend
   - typed arrays 🎓 known
   - Map 👂 heard
+  - typed arrays 👂 heard
   - Set
   - undefined
   - null 👂 heard
