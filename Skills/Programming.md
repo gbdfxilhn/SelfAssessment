@@ -46,7 +46,7 @@
   - compose
   - pipe 
   - memoize
-  - wrapper
+  - wrapper 🖐 used
   - functor
   - monad
   - monoid
@@ -60,7 +60,7 @@
   - instance 
   - object 🖐 used
   - class 🖐 used
-  - collection
+  - collection 👂 heard
   - set 
   - hash table 🎓 known
   - linked list 🎓 known
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code
   - exception
   - return early
   - unittest
-  - git 🎓 known
-  - github 🎓 known
+  - git 🖐 used
+  - github 🖐 used
