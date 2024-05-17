@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🖐 used
   - destructuring
   - generator
   - iterator 🖐 used
@@ -34,7 +34,7 @@
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode 🖐 used
   - delete 🖐 used
   - in
   - super
