@@ -5,8 +5,8 @@
   - identifier 🖐 used
   - variable 🖐 used
   - constant 🖐 used
-  - scalar 👂 heard
-  - literal 🎓 known
+  - scalar 🖐 used
+  - literal 🖐 used
   - expression 🖐 used
   - heap 👂 heard
   - function 🖐 used
@@ -16,7 +16,7 @@
   - prototype 🎓 known
   - event 
   - type 🖐 used
-  - primitive types
+  - primitive types 🖐 used
   - reference types
   - flag 🖐 used
   - lexical scope
@@ -24,8 +24,8 @@
   - conditions
   - loops 🖐 used
   - assignment
-  - regular expression
-  - interface
+  - regular expression 🖐 used
+  - interface 🖐 used
   - contract
   - module
   - call stack
@@ -34,14 +34,14 @@
   - argument 🖐 used
   - parameter 🖐 used
   - pure function 👂 heard
-  - lambda expression 🎓 known
+  - lambda expression 🖐 used
   - side effects
   - closure
   - partial application
   - curry
   - higher order
   - recursion 🖐 used
-  - callback
+  - callback 🖐 used
   - listener
   - compose
   - pipe
@@ -61,18 +61,18 @@
   - object 🖐 used
   - class 🖐 used
   - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph 👂 heard
-  - iterator
+  - set 
+  - hash table 🎓 known
+  - linked list 🎓 known
+  - doubly list 🖐 used
+  - unrolled list 🎓 known
+  - circular list 🎓 known
+  - queue 🖐 used
+  - stack 🖐 used
+  - deque 🖐 used
+  - tree 🖐 used
+  - graph 🖐 used
+  - iterator 🖐 used
   - mutable state
   - immutable state
   - serialization
@@ -84,7 +84,7 @@
   - polyfill 
   - debugger 🖐 used
   - garbage collection
-  - refactoring  👂 heard
+  - refactoring  🖐 used
   - code review 👂 heard
   - antipatterns
   - paradigm
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git 👂 heard
-  - github 👂 heard
+  - git 🎓 known
+  - github 🎓 known
