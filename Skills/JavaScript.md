@@ -4,6 +4,9 @@
   - Object 🖐 used
   - this 🖐 used
   - arrow function 🖐 used
+  - async function 🎓 known
+  - call
+  - bind 🎓 known
   - async function 👂 heard
   - call
   - bind 👂 heard
@@ -51,6 +54,10 @@
   - throw
   - break 🖐 used
   - continue 🖐 used
+  - import 🖐 used
+  - export 🖐 used
+  - label
+  - try..catch 🎓 known
   - import 👂 heard
   - export 👂 heard
   - label
@@ -69,14 +76,15 @@
   - Array 🖐 used
   - mixin
   - extend
+  - typed arrays 🎓 known
+  - Map 👂 heard
   - typed arrays 👂 heard
-  - Map
   - Set
   - undefined
-  - null
-  - Proxy
+  - null 👂 heard
+  - Proxy 👂 heard
   - weak collections
-  - timers
+  - timers 🎓 known
   - EventEmitter
   - RegExp
   - Date

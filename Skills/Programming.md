@@ -5,7 +5,7 @@
   - identifier 🖐 used
   - variable 🖐 used
   - constant 🖐 used
-  - scalar 👂 heard
+  - scalar 🖐 used
   - literal 🎓 known
   - expression 🖐 used
   - heap 👂 heard
@@ -25,7 +25,7 @@
   - loops 🖐 used
   - assignment
   - regular expression
-  - interface
+  - interface 🎓 known
   - contract
   - module
   - call stack
@@ -33,7 +33,7 @@
   - signature 🖐 used
   - argument 🖐 used
   - parameter 🖐 used
-  - pure function 👂 heard
+  - pure function 🎓 known
   - lambda expression 🎓 known
   - side effects
   - closure
@@ -71,7 +71,7 @@
   - stack
   - deque
   - tree
-  - graph 👂 heard
+  - graph 🎓 known
   - iterator
   - mutable state
   - immutable state
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git 👂 heard
-  - github 👂 heard
+  - github 🖐 used
