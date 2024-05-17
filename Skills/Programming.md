@@ -23,7 +23,7 @@
   - code block
   - conditions
   - loops 🖐 used
-  - assignment
+  - assignment 🖐 used
   - regular expression 🖐 used
   - interface 🖐 used
   - contract
@@ -44,7 +44,7 @@
   - callback 🖐 used
   - listener
   - compose
-  - pipe
+  - pipe 
   - memoize
   - wrapper
   - functor
