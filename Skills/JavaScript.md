@@ -13,14 +13,14 @@
   - ...rest
   - typeof 🖐 used
   - destructuring
-  - generator
+  - generator 👂 heard
   - iterator 🖐 used
   - async generator 👂 heard
   - async iterator 👂 heard
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global 🖐 used
   - globalThis
   - window
   - getters and setters
@@ -54,7 +54,7 @@
   - import 👂 heard
   - export 👂 heard
   - label
-  - try..catch
+  - try..catch 👂 heard
   - switch 🖐 used
   - class 👂 heard
   - new Error
