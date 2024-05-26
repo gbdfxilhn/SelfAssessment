@@ -50,7 +50,7 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator 👂 heard
   - coroutine
 - Data structures
   - array 🖐 used
@@ -61,7 +61,7 @@
   - object 🖐 used
   - class 🖐 used
   - collection 👂 heard
-  - set 
+  - set 👂 heard
   - hash table 🎓 known
   - linked list 🎓 known
   - doubly list 🖐 used
